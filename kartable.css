@@ -1,0 +1,7 @@
+html, body {
+  overflow: visible !important;
+  }
+   
+.blurred .bullet-nav, .blurred .contextual-links, .blurred .document-header, .blurred .footer, .blurred .page--document-application, .blurred .page--document-single, .blurred .top-banner {
+    filter: blur(0px) !important;
+}

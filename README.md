@@ -1,2 +1,2 @@
 # kartable-bypass-premium
-Bypass de l'accès restraint aux cours de Kartable.fr
+Bypass de l'accès restreint aux cours de Kartable.fr

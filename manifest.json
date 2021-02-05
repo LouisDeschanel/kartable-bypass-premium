@@ -1,0 +1,12 @@
+{
+    "name" :"Remove Blur Kartable",
+    "version" :"1.0",
+    "description" :"Blur Kartable",
+    "manifest_version" : 2,
+    
+    "content_scripts": [{
+        "css": ["kartable.css"],
+        "js" : ["kartable.js"],
+        "matches": ["https://www.kartable.fr/ressources/*/cours/*"]
+    }]
+}
